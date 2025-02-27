@@ -21,6 +21,10 @@ export const CardBody = styled.article`
     margin-bottom: 1rem;
   }
 
+  p {
+    text-align: justify;
+  }
+
   img {
     width: 30%;
     object-fit: cover;
